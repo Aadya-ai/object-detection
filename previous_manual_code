@@ -1,0 +1,12 @@
+    image(img, 0, 0, 640, 420);
+    fill("#800080");
+    text("Dog", 45, 75);
+    noFill();
+    stroke("#800080");
+    rect(30, 60, 450, 350);
+
+    fill("#0000FF");
+    text("Cat", 320, 120);
+    noFill();
+    stroke("#0000FF");
+    rect(300, 90, 270, 320);
